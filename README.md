@@ -1,4 +1,4 @@
 # calculator
 let's make calculation
 
-Author Om Salunke
+Author: Om Salunke
